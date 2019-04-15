@@ -1,4 +1,4 @@
-# Web Portofolio
+# Web Portfolio
 
 ## Text Similarity Program
 A full front end program I built to find the similarity rate between 2 texts or documents. It uses 3 approaches in calculating the similarity rate that one can choose.</br>
